@@ -1,2 +1,2 @@
 # website seminar nasional
-# Berbasis Wordpress dengan tema form builder
+# Berbasis Wordpress dengan plugins form builder untuk form registrasi, form pendaftaran dan lain2
